@@ -34,9 +34,11 @@ Directory with input data should contain:
  - Design matrix ("COLONY_simulation_Descr.txt")
  - Genetic markers information for each population ("Markers_<PopulationName>.txt")
  - Allele frequency data for each population ("<PopulationName>_AlleleFreq.txt")
+
 *NB:* Population names should be the same as in design matrix ('Meadow' column)
 
 Run `COLONY_PrepareInputFiles.R`
+
 Several folders (5 replicates by default) will be created for each population.
 
 Copy COLONY files (impi.dll, libguide40.dll, libiomp5md.dll, colony2s.exe, simu2.exe) to each folder with input data, run simu2.exe (from batch file).
@@ -50,7 +52,7 @@ Example file: COLONY_simulation_Accuracy.Accuracy
 
 
 # Prerequisites:
-packages [plyr](https://cran.r-project.org/web/packages/plyr/index.html) and [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html)
+Packages [plyr](https://cran.r-project.org/web/packages/plyr/index.html) and [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html)
 
  `install.packages(c("plyr", "xlsx"))`
 
