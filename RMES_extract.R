@@ -8,7 +8,7 @@ library(xlsx)
 ## Set working directory
 # setwd("...")
 
-# Load the file with output copied from RMES results window
+# Load the file with output copied from RMES results window (see 'examples' folder)
 res <- readLines(file("RMES_default_output.txt"))
 
 

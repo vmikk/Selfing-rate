@@ -61,8 +61,8 @@ vect.add <- function(vv, tot){
 
 # Create mating matrix
 mating.matrix <- function(n = 15, s = 0.3, cs){
-	# n = dimenstions of mating matrix (for monoecious plants number of males = number of females)
-	# s = desired rate of selfers (diagonale elements)
+	# n = dimensions of mating matrix (for monoecious plants number of males = number of females)
+	# s = desired rate of selfers (diagonal elements)
 	# cs = vector of known offspring numbers from female (sum of columns)
 
 	# tot <- n*n 								# total number of elements in matrix
@@ -82,6 +82,8 @@ mating.matrix <- function(n = 15, s = 0.3, cs){
 	
 	return(mm)
 }
+
+
 ## Example 1
 # ( zz <- mating.matrix(n = 15, s = 0.3, cs = c(10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 0, 0, 0, 0)) )
 # sum(diag(zz)) / sum(zz)		# observed selfing rate

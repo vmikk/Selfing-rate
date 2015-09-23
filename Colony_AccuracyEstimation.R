@@ -10,6 +10,7 @@ library(xlsx)
 # setwd("...")
 
 # Working directory should contain *.Accuracy files from COLONY simulations
+# Example file: COLONY_simulation_Accuracy.Accuracy
 
 
 ####################################
@@ -17,7 +18,7 @@ library(xlsx)
 ####################################
 
 # Read data
-filenames <- list.files(pattern="*.Accuracy", full.names=TRUE)			# results from analysis
+filenames <- list.files(pattern="*.Accuracy$", full.names=TRUE)			# results from analysis
 
 # parse COLONY output
 read.accuracy <- function(x){	# x = "*.Accuracy" file

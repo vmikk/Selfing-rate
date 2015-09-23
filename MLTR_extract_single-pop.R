@@ -11,10 +11,10 @@ library(xlsx)
 # setwd("...")
 
 # Working directory should contain *.out files from MLTR analyses (population or group level)
+# Example files - MLTR_sample1a.out, MLTR_sample1b.out, MLTR_sample1c.out
 
 
-
-filenames <- list.files(pattern="*.out", full.names=TRUE)  # results from analysis
+filenames <- list.files(pattern="*.out$", full.names=TRUE)  # results from analysis
 res <- lapply(filenames, readLines)
 	meads <- gsub(pattern = ".out", replacement = "", x = filenames)
 	meads <- gsub(pattern = "./", replacement = "", x = meads)

@@ -8,7 +8,7 @@
 # setwd("...")
 
 
-datt <- read.csv("tst.Selfer", as.is = T)
+datt <- read.csv("COLONY_simulation_Selfer.Selfer", as.is = T)
 	# OffspringID
 	# Probability
 # Example: offspring ID of ‘M2F3C4’ indicates that the offspring is
@@ -33,5 +33,5 @@ get.selfers <- function(x){
 
 
 
-get.selfers( ID.extract(datt, idname="Offspring") )
+get.selfers( ID.extract(datt, idname="OffspringID") )
 

@@ -13,13 +13,23 @@ set.seed(14789)
 # Load functions to create mating matrix (mating.matrix, fill.vector, vect.add)
 source("Colony_PrepareRandomMatingMatrix.R")
 
+## Set directory with input data
+## E.g., .../examples/COLONY_simulation_inp/
+# setwd("...")
+
+## Directory with input data should contain
+# Design matrix ("COLONY_simulation_Descr.txt")
+# Genetic markers information for each population ("Markers_<PopulationName>.txt")
+# Allele frequency data for each population ("<PopulationName>_AlleleFreq.txt")
+## Population names should be the same as in design matrix ('Meadow' column)
+
 
 ######################################
 ###################################### # Read data
 ######################################
 
 ## Data design (offspring number, known mothers, etc.)
-design <- read.delim("Descr.txt")
+design <- read.delim("COLONY_simulation_Descr.txt")
  # $ Meadow 			Meadow and pollution zone name
  # $ Offsp 				Total number of known offspring ( sum(M1..M15) )
  # $ Mat 				Number of mothers with know progeny ( M1..M15 > 0)
@@ -272,7 +282,7 @@ colony.input <- function(x, suffix="", self=0.2){
 		self.rate = self,					# selfing rate
 		mm.dim = n, 						# the number of candidate parents
 		drp.rate = c(0,0,0,0,0), 			# dropout rate
-		err.rate = x$ErrRate, 				# error rate
+		err.rate = x$DropRate, 				# error rate
 		allele.n = x$NumAlleles,			# number of alleles per locus
 		mm = mm,							# mating matrix
 		allele.freq = x$AlleleFreq 			# distribution of allele frequencies at each locus 
