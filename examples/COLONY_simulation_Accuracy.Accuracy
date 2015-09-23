@@ -1,0 +1,26 @@
+Sibship Accuracy (FL/PLS/FPLS method)
+            FS(Est)   HS(Est)   NS(Est)   
+FS(True)       244       265        26
+HS(True)       367      5960      2573
+NS(True)        20      1785     26890
+
+Sibship Accuracy (Pairwise method)
+            FS(Est)   HS(Est)   NS(Est)   
+FS(True)       257       200        78
+HS(True)       479      5799      2622
+NS(True)         0      6002     22693
+
+Parentage Accuracy (FL/PLS/FPLS method)
+          PO(Out)Est     PO(In)Est
+PO(Out)           0              0
+PO(In)          303            937
+
+Parentage Accuracy (Pairwise method)
+          PO(Out)Est     PO(In)Est
+PO(Out)           0              0
+PO(In)          620            620
+
+Self-outbred Individual Accuracy (FL/PLS/FPLS method)
+          #(Self)Est      #(Out)Est
+#(Self)       103             32
+#(Out)         78            407

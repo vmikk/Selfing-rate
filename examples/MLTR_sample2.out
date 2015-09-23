@@ -1,0 +1,863 @@
+Input data file: d:\Dropbox\_Lychnis\GeneMapper_NEW\MLTR\mltr\sample1gr.DAT                      
+  No possible parent, family-locus: Fam32   -5SbAGA-0      
+
+            ---------------------------------------
+
+
+                     Multilocus Estimates
+
+                           5 loci
+
+          Standard errors based upon   100 bootstraps
+
+             Entire families resampled
+
+
+ Pollen gene frequencies constrained to equal ovule frequencies
+
+
+ Most likely parents used in procedure 
+ --> estimates are from original dataset (not bootstrap means)
+
+               Log-likelihood of F=    -536.626
+
+               Log-likelihood of tm=    -766.506
+
+               Log-likelihood of r=   -3696.956
+
+
+         Parental F estimate (SD) =-0.193  (0.012)
+
+
+                             Group: 10      
+
+         Multilocus t estimate (SD) = 1.200  (0.544)
+
+         Singlelocus t estimate (SD) = 0.629  (0.308)
+
+         Difference tm-ts (SD) = 0.571  (0.256)
+
+         Correlation of t (or s) estimate (SD) = 0.000  (0.000)
+
+         Multilocus  correlation of p estimate (SD) = 0.000  (0.000)
+
+         Singlelocus correlation of p estimate (SD) = 0.000  (0.000)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.000)
+
+         Correlation of s (or t) among loci (SD) =-0.637  (0.364)
+
+
+                             Group: 2       
+
+         Multilocus t estimate (SD) = 0.377  (0.327)
+
+         Singlelocus t estimate (SD) = 0.154  (0.195)
+
+         Difference tm-ts (SD) = 0.224  (0.148)
+
+         Correlation of t (or s) estimate (SD) = 0.511  (0.719)
+
+         Multilocus  correlation of p estimate (SD) = 0.483  (0.286)
+
+         Singlelocus correlation of p estimate (SD) = 0.362  (0.469)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) =-0.122  (0.375)
+
+         Correlation of s (or t) among loci (SD) = 0.128  (0.514)
+
+
+                             Group: 3       
+
+         Multilocus t estimate (SD) = 1.200  (0.598)
+
+         Singlelocus t estimate (SD) = 0.627  (0.337)
+
+         Difference tm-ts (SD) = 0.573  (0.273)
+
+         Correlation of t (or s) estimate (SD) =-0.999  (0.498)
+
+         Multilocus  correlation of p estimate (SD) = 0.999  (0.543)
+
+         Singlelocus correlation of p estimate (SD) = 0.999  (0.497)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.352)
+
+         Correlation of s (or t) among loci (SD) =-0.611  (0.375)
+
+
+                             Group: 4       
+
+         Multilocus t estimate (SD) = 0.001  (0.000)
+
+         Singlelocus t estimate (SD) = 0.001  (0.000)
+
+         Difference tm-ts (SD) = 0.000  (0.000)
+
+         Correlation of t (or s) estimate (SD) = 0.999  (0.466)
+
+         Multilocus  correlation of p estimate (SD) = 0.999  (0.466)
+
+         Singlelocus correlation of p estimate (SD) = 0.999  (0.466)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.000)
+
+         Correlation of s (or t) among loci (SD) = 0.999  (0.466)
+
+
+                             Group: 5       
+
+         Multilocus t estimate (SD) = 0.543  (0.152)
+
+         Singlelocus t estimate (SD) = 0.372  (0.175)
+
+         Difference tm-ts (SD) = 0.172  (0.075)
+
+         Correlation of t (or s) estimate (SD) = 0.359  (0.395)
+
+         Multilocus  correlation of p estimate (SD) = 0.373  (0.518)
+
+         Singlelocus correlation of p estimate (SD) = 0.524  (0.758)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.151  (0.751)
+
+         Correlation of s (or t) among loci (SD) = 0.601  (0.283)
+
+
+                             Group: 6       
+
+         Multilocus t estimate (SD) = 0.519  (0.127)
+
+         Singlelocus t estimate (SD) = 0.275  (0.098)
+
+         Difference tm-ts (SD) = 0.244  (0.053)
+
+         Correlation of t (or s) estimate (SD) = 0.542  (0.183)
+
+         Multilocus  correlation of p estimate (SD) = 0.994  (0.131)
+
+         Singlelocus correlation of p estimate (SD) = 0.399  (0.256)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) =-0.595  (0.257)
+
+         Correlation of s (or t) among loci (SD) = 0.145  (0.273)
+
+
+                             Group: 7       
+
+         Multilocus t estimate (SD) = 0.801  (0.352)
+
+         Singlelocus t estimate (SD) = 0.656  (0.288)
+
+         Difference tm-ts (SD) = 0.145  (0.104)
+
+         Correlation of t (or s) estimate (SD) = 0.999  (0.962)
+
+         Multilocus  correlation of p estimate (SD) = 0.147  (0.361)
+
+         Singlelocus correlation of p estimate (SD) =-0.232  (0.483)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) =-0.380  (0.349)
+
+         Correlation of s (or t) among loci (SD) = 0.336  (0.508)
+
+
+                             Group: 8       
+
+         Multilocus t estimate (SD) = 0.201  (0.430)
+
+         Singlelocus t estimate (SD) = 0.122  (0.202)
+
+         Difference tm-ts (SD) = 0.079  (0.233)
+
+         Correlation of t (or s) estimate (SD) = 0.999  (0.466)
+
+         Multilocus  correlation of p estimate (SD) = 0.999  (0.466)
+
+         Singlelocus correlation of p estimate (SD) = 0.999  (0.466)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.000)
+
+         Correlation of s (or t) among loci (SD) = 0.227  (0.466)
+
+
+                             Group: 9       
+
+         Multilocus t estimate (SD) = 1.200  (0.461)
+
+         Singlelocus t estimate (SD) = 0.919  (0.388)
+
+         Difference tm-ts (SD) = 0.281  (0.152)
+
+         Correlation of t (or s) estimate (SD) = 0.000  (0.000)
+
+         Multilocus  correlation of p estimate (SD) = 0.000  (0.000)
+
+         Singlelocus correlation of p estimate (SD) = 0.000  (0.000)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.000)
+
+         Correlation of s (or t) among loci (SD) =-0.999  (0.774)
+
+
+      Group: 2        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.823  (0.381)
+
+         Singlelocus t difference (SD) = 0.475  (0.213)
+
+         tm-ts difference (SD) = 0.348  (0.176)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.511  (0.719)
+
+         Multilocus r(p)  difference (SD) =-0.483  (0.286)
+
+
+      Group: 3        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.000  (0.898)
+
+         Singlelocus t difference (SD) = 0.002  (0.495)
+
+         tm-ts difference (SD) =-0.002  (0.421)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.999  (0.498)
+
+         Multilocus r(p)  difference (SD) =-0.999  (0.543)
+
+
+      Group: 4        vs. group: 10      
+
+         Multilocus t difference (SD) = 1.199  (0.544)
+
+         Singlelocus t difference (SD) = 0.628  (0.308)
+
+         tm-ts difference (SD) = 0.571  (0.256)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.999  (0.466)
+
+         Multilocus r(p)  difference (SD) =-0.999  (0.466)
+
+
+      Group: 5        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.657  (0.584)
+
+         Singlelocus t difference (SD) = 0.257  (0.370)
+
+         tm-ts difference (SD) = 0.400  (0.263)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.359  (0.395)
+
+         Multilocus r(p)  difference (SD) =-0.373  (0.518)
+
+
+      Group: 6        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.681  (0.551)
+
+         Singlelocus t difference (SD) = 0.354  (0.320)
+
+         tm-ts difference (SD) = 0.327  (0.259)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.542  (0.183)
+
+         Multilocus r(p)  difference (SD) =-0.994  (0.131)
+
+
+      Group: 7        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.399  (0.665)
+
+         Singlelocus t difference (SD) =-0.028  (0.439)
+
+         tm-ts difference (SD) = 0.427  (0.277)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.999  (0.962)
+
+         Multilocus r(p)  difference (SD) =-0.147  (0.361)
+
+
+      Group: 8        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.999  (0.726)
+
+         Singlelocus t difference (SD) = 0.507  (0.383)
+
+         tm-ts difference (SD) = 0.493  (0.363)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.999  (0.466)
+
+         Multilocus r(p)  difference (SD) =-0.999  (0.466)
+
+
+      Group: 9        vs. group: 10      
+
+         Multilocus t difference (SD) = 0.000  (0.717)
+
+         Singlelocus t difference (SD) =-0.291  (0.471)
+
+         tm-ts difference (SD) = 0.291  (0.327)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.000  (0.000)
+
+         Multilocus r(p)  difference (SD) = 0.000  (0.000)
+
+
+      Group: 3        vs. group: 2       
+
+         Multilocus t difference (SD) =-0.823  (0.677)
+
+         Singlelocus t difference (SD) =-0.473  (0.373)
+
+         tm-ts difference (SD) =-0.349  (0.321)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 1.510  (0.817)
+
+         Multilocus r(p)  difference (SD) =-0.516  (0.622)
+
+
+      Group: 4        vs. group: 2       
+
+         Multilocus t difference (SD) = 0.376  (0.327)
+
+         Singlelocus t difference (SD) = 0.153  (0.195)
+
+         tm-ts difference (SD) = 0.224  (0.148)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.488  (0.852)
+
+         Multilocus r(p)  difference (SD) =-0.516  (0.546)
+
+
+      Group: 5        vs. group: 2       
+
+         Multilocus t difference (SD) =-0.166  (0.354)
+
+         Singlelocus t difference (SD) =-0.218  (0.255)
+
+         tm-ts difference (SD) = 0.052  (0.158)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.152  (0.847)
+
+         Multilocus r(p)  difference (SD) = 0.111  (0.551)
+
+
+      Group: 6        vs. group: 2       
+
+         Multilocus t difference (SD) =-0.141  (0.355)
+
+         Singlelocus t difference (SD) =-0.121  (0.224)
+
+         tm-ts difference (SD) =-0.021  (0.157)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.031  (0.754)
+
+         Multilocus r(p)  difference (SD) =-0.511  (0.331)
+
+
+      Group: 7        vs. group: 2       
+
+         Multilocus t difference (SD) =-0.424  (0.482)
+
+         Singlelocus t difference (SD) =-0.503  (0.350)
+
+         tm-ts difference (SD) = 0.079  (0.178)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.488  (1.320)
+
+         Multilocus r(p)  difference (SD) = 0.336  (0.452)
+
+
+      Group: 8        vs. group: 2       
+
+         Multilocus t difference (SD) = 0.177  (0.561)
+
+         Singlelocus t difference (SD) = 0.032  (0.292)
+
+         tm-ts difference (SD) = 0.145  (0.286)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.488  (0.892)
+
+         Multilocus r(p)  difference (SD) =-0.516  (0.549)
+
+
+      Group: 9        vs. group: 2       
+
+         Multilocus t difference (SD) =-0.823  (0.549)
+
+         Singlelocus t difference (SD) =-0.766  (0.414)
+
+         tm-ts difference (SD) =-0.057  (0.224)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.511  (0.719)
+
+         Multilocus r(p)  difference (SD) = 0.483  (0.286)
+
+
+      Group: 4        vs. group: 3       
+
+         Multilocus t difference (SD) = 1.199  (0.598)
+
+         Singlelocus t difference (SD) = 0.626  (0.337)
+
+         tm-ts difference (SD) = 0.573  (0.273)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-1.998  (0.742)
+
+         Multilocus r(p)  difference (SD) = 0.000  (0.672)
+
+
+      Group: 5        vs. group: 3       
+
+         Multilocus t difference (SD) = 0.657  (0.583)
+
+         Singlelocus t difference (SD) = 0.255  (0.321)
+
+         tm-ts difference (SD) = 0.402  (0.291)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-1.358  (0.691)
+
+         Multilocus r(p)  difference (SD) = 0.626  (0.746)
+
+
+      Group: 6        vs. group: 3       
+
+         Multilocus t difference (SD) = 0.681  (0.607)
+
+         Singlelocus t difference (SD) = 0.352  (0.348)
+
+         tm-ts difference (SD) = 0.329  (0.277)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-1.541  (0.528)
+
+         Multilocus r(p)  difference (SD) = 0.005  (0.556)
+
+
+      Group: 7        vs. group: 3       
+
+         Multilocus t difference (SD) = 0.399  (0.683)
+
+         Singlelocus t difference (SD) =-0.030  (0.446)
+
+         tm-ts difference (SD) = 0.429  (0.274)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-1.998  (1.064)
+
+         Multilocus r(p)  difference (SD) = 0.852  (0.684)
+
+
+      Group: 8        vs. group: 3       
+
+         Multilocus t difference (SD) = 0.999  (0.723)
+
+         Singlelocus t difference (SD) = 0.505  (0.387)
+
+         tm-ts difference (SD) = 0.495  (0.353)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-1.998  (0.728)
+
+         Multilocus r(p)  difference (SD) = 0.000  (0.687)
+
+
+      Group: 9        vs. group: 3       
+
+         Multilocus t difference (SD) = 0.000  (0.797)
+
+         Singlelocus t difference (SD) =-0.293  (0.555)
+
+         tm-ts difference (SD) = 0.293  (0.315)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.999  (0.498)
+
+         Multilocus r(p)  difference (SD) = 0.999  (0.543)
+
+
+      Group: 5        vs. group: 4       
+
+         Multilocus t difference (SD) =-0.542  (0.152)
+
+         Singlelocus t difference (SD) =-0.371  (0.175)
+
+         tm-ts difference (SD) =-0.172  (0.075)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.640  (0.621)
+
+         Multilocus r(p)  difference (SD) = 0.626  (0.701)
+
+
+      Group: 6        vs. group: 4       
+
+         Multilocus t difference (SD) =-0.518  (0.127)
+
+         Singlelocus t difference (SD) =-0.274  (0.098)
+
+         tm-ts difference (SD) =-0.244  (0.053)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.457  (0.498)
+
+         Multilocus r(p)  difference (SD) = 0.005  (0.484)
+
+
+      Group: 7        vs. group: 4       
+
+         Multilocus t difference (SD) =-0.800  (0.352)
+
+         Singlelocus t difference (SD) =-0.655  (0.288)
+
+         tm-ts difference (SD) =-0.145  (0.104)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.000  (1.013)
+
+         Multilocus r(p)  difference (SD) = 0.852  (0.624)
+
+
+      Group: 8        vs. group: 4       
+
+         Multilocus t difference (SD) =-0.200  (0.430)
+
+         Singlelocus t difference (SD) =-0.121  (0.202)
+
+         tm-ts difference (SD) =-0.079  (0.233)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.000  (0.663)
+
+         Multilocus r(p)  difference (SD) = 0.000  (0.663)
+
+
+      Group: 9        vs. group: 4       
+
+         Multilocus t difference (SD) =-1.199  (0.461)
+
+         Singlelocus t difference (SD) =-0.918  (0.388)
+
+         tm-ts difference (SD) =-0.281  (0.152)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.999  (0.466)
+
+         Multilocus r(p)  difference (SD) = 0.999  (0.466)
+
+
+      Group: 6        vs. group: 5       
+
+         Multilocus t difference (SD) = 0.025  (0.196)
+
+         Singlelocus t difference (SD) = 0.097  (0.196)
+
+         tm-ts difference (SD) =-0.073  (0.083)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.183  (0.406)
+
+         Multilocus r(p)  difference (SD) =-0.622  (0.528)
+
+
+      Group: 7        vs. group: 5       
+
+         Multilocus t difference (SD) =-0.258  (0.373)
+
+         Singlelocus t difference (SD) =-0.285  (0.331)
+
+         tm-ts difference (SD) = 0.027  (0.123)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.640  (1.065)
+
+         Multilocus r(p)  difference (SD) = 0.225  (0.594)
+
+
+      Group: 8        vs. group: 5       
+
+         Multilocus t difference (SD) = 0.343  (0.457)
+
+         Singlelocus t difference (SD) = 0.250  (0.261)
+
+         tm-ts difference (SD) = 0.093  (0.252)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.640  (0.547)
+
+         Multilocus r(p)  difference (SD) =-0.626  (0.663)
+
+
+      Group: 9        vs. group: 5       
+
+         Multilocus t difference (SD) =-0.657  (0.474)
+
+         Singlelocus t difference (SD) =-0.548  (0.430)
+
+         tm-ts difference (SD) =-0.109  (0.179)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.359  (0.395)
+
+         Multilocus r(p)  difference (SD) = 0.373  (0.518)
+
+
+      Group: 7        vs. group: 6       
+
+         Multilocus t difference (SD) =-0.282  (0.351)
+
+         Singlelocus t difference (SD) =-0.382  (0.287)
+
+         tm-ts difference (SD) = 0.100  (0.115)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.457  (0.989)
+
+         Multilocus r(p)  difference (SD) = 0.847  (0.380)
+
+
+      Group: 8        vs. group: 6       
+
+         Multilocus t difference (SD) = 0.318  (0.420)
+
+         Singlelocus t difference (SD) = 0.153  (0.190)
+
+         tm-ts difference (SD) = 0.166  (0.238)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) =-0.457  (0.488)
+
+         Multilocus r(p)  difference (SD) =-0.005  (0.487)
+
+
+      Group: 9        vs. group: 6       
+
+         Multilocus t difference (SD) =-0.681  (0.497)
+
+         Singlelocus t difference (SD) =-0.645  (0.413)
+
+         tm-ts difference (SD) =-0.036  (0.159)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.542  (0.183)
+
+         Multilocus r(p)  difference (SD) = 0.994  (0.131)
+
+
+      Group: 8        vs. group: 7       
+
+         Multilocus t difference (SD) = 0.600  (0.523)
+
+         Singlelocus t difference (SD) = 0.534  (0.332)
+
+         tm-ts difference (SD) = 0.066  (0.242)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.000  (1.089)
+
+         Multilocus r(p)  difference (SD) =-0.852  (0.575)
+
+
+      Group: 9        vs. group: 7       
+
+         Multilocus t difference (SD) =-0.399  (0.622)
+
+         Singlelocus t difference (SD) =-0.263  (0.521)
+
+         tm-ts difference (SD) =-0.136  (0.176)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.999  (0.962)
+
+         Multilocus r(p)  difference (SD) = 0.147  (0.361)
+
+
+      Group: 9        vs. group: 8       
+
+         Multilocus t difference (SD) =-0.999  (0.636)
+
+         Singlelocus t difference (SD) =-0.797  (0.450)
+
+         tm-ts difference (SD) =-0.202  (0.274)
+
+         Correlation of t among loci (SD) = 0.000  (0.000)
+
+         Correlation of t difference (SD) = 0.999  (0.466)
+
+         Multilocus r(p)  difference (SD) = 0.999  (0.466)
+
+
+               Locus         #alleles    #progeny
+               5SbAGA-0         10          98
+               SbAGH-04         13          95
+               Sb5-236          14          97
+               SbAGE-01         10          97
+               Sb4-22           27          99
+
+
+
+                  Gene Frequency Estimates (SD)
+
+   Locus/allele          Pollen             Ovule
+ 
+  5SbAGA-0 2          0.151  (0.060)     0.151  (0.060)
+  5SbAGA-0 6          0.256  (0.088)     0.256  (0.088)
+  5SbAGA-0 4          0.145  (0.063)     0.145  (0.063)
+  5SbAGA-0 10         0.037  (0.028)     0.037  (0.028)
+  5SbAGA-0 3          0.251  (0.075)     0.251  (0.075)
+  5SbAGA-0 8          0.024  (0.017)     0.024  (0.017)
+  5SbAGA-0 7          0.038  (0.028)     0.038  (0.028)
+  5SbAGA-0 5          0.085  (0.045)     0.085  (0.045)
+  5SbAGA-0 9          0.009  (0.007)     0.009  (0.007)
+  5SbAGA-0 1          0.005  (0.008)     0.005  (0.008)
+ 
+  SbAGH-04 2          0.109  (0.035)     0.109  (0.035)
+  SbAGH-04 8          0.028  (0.014)     0.028  (0.014)
+  SbAGH-04 4          0.226  (0.104)     0.226  (0.104)
+  SbAGH-04 1          0.176  (0.083)     0.176  (0.083)
+  SbAGH-04 3          0.356  (0.090)     0.356  (0.090)
+  SbAGH-04 10         0.004  (0.004)     0.004  (0.004)
+  SbAGH-04 6          0.025  (0.017)     0.025  (0.017)
+  SbAGH-04 5          0.029  (0.023)     0.029  (0.023)
+  SbAGH-04 12         0.004  (0.005)     0.004  (0.005)
+  SbAGH-04 11         0.013  (0.012)     0.013  (0.012)
+  SbAGH-04 7          0.013  (0.008)     0.013  (0.008)
+  SbAGH-04 9          0.011  (0.010)     0.011  (0.010)
+  SbAGH-04 13         0.004  (0.005)     0.004  (0.005)
+ 
+  Sb5-236  8          0.222  (0.057)     0.222  (0.057)
+  Sb5-236  7          0.015  (0.011)     0.015  (0.011)
+  Sb5-236  1          0.129  (0.059)     0.129  (0.059)
+  Sb5-236  6          0.119  (0.054)     0.119  (0.054)
+  Sb5-236  2          0.026  (0.020)     0.026  (0.020)
+  Sb5-236  5          0.168  (0.079)     0.168  (0.079)
+  Sb5-236  10         0.170  (0.062)     0.170  (0.062)
+  Sb5-236  3          0.015  (0.026)     0.015  (0.026)
+  Sb5-236  11         0.042  (0.038)     0.042  (0.038)
+  Sb5-236  12         0.029  (0.023)     0.029  (0.023)
+  Sb5-236  14         0.005  (0.006)     0.005  (0.006)
+  Sb5-236  4          0.009  (0.006)     0.009  (0.006)
+  Sb5-236  9          0.046  (0.038)     0.046  (0.038)
+  Sb5-236  13         0.004  (0.004)     0.004  (0.004)
+ 
+  SbAGE-01 7          0.004  (0.004)     0.004  (0.004)
+  SbAGE-01 1          0.280  (0.092)     0.280  (0.092)
+  SbAGE-01 6          0.027  (0.017)     0.027  (0.017)
+  SbAGE-01 2          0.422  (0.085)     0.422  (0.085)
+  SbAGE-01 8          0.032  (0.014)     0.032  (0.014)
+  SbAGE-01 5          0.066  (0.029)     0.066  (0.029)
+  SbAGE-01 10         0.140  (0.048)     0.140  (0.048)
+  SbAGE-01 11         0.013  (0.008)     0.013  (0.008)
+  SbAGE-01 12         0.012  (0.010)     0.012  (0.010)
+  SbAGE-01 4          0.004  (0.004)     0.004  (0.004)
+ 
+  Sb4-22   1          0.190  (0.048)     0.190  (0.048)
+  Sb4-22   Fam31      0.004  (0.004)     0.004  (0.004)
+  Sb4-22   2          0.517  (0.049)     0.517  (0.049)
+  Sb4-22   Fam32      0.005  (0.005)     0.005  (0.005)
+  Sb4-22   Fam33      0.004  (0.005)     0.004  (0.005)
+  Sb4-22   Fam34      0.020  (0.014)     0.020  (0.014)
+  Sb4-22   Fam35      0.019  (0.017)     0.019  (0.017)
+  Sb4-22   Fam36      0.019  (0.016)     0.019  (0.016)
+  Sb4-22   Fam37      0.019  (0.016)     0.019  (0.016)
+  Sb4-22   Fam38      0.019  (0.012)     0.019  (0.012)
+  Sb4-22   Fam39      0.004  (0.004)     0.004  (0.004)
+  Sb4-22   Fam310     0.005  (0.005)     0.005  (0.005)
+  Sb4-22   Fam311     0.004  (0.005)     0.004  (0.005)
+  Sb4-22   Fam312     0.020  (0.015)     0.020  (0.015)
+  Sb4-22   Fam313     0.004  (0.004)     0.004  (0.004)
+  Sb4-22   Fam314     0.019  (0.015)     0.019  (0.015)
+  Sb4-22   Fam315     0.020  (0.019)     0.020  (0.019)
+  Sb4-22   Fam316     0.020  (0.017)     0.020  (0.017)
+  Sb4-22   Fam317     0.019  (0.015)     0.019  (0.015)
+  Sb4-22   Fam318     0.013  (0.022)     0.013  (0.022)
+  Sb4-22   Fam319     0.004  (0.004)     0.004  (0.004)
+  Sb4-22   Fam320     0.004  (0.003)     0.004  (0.003)
+  Sb4-22   Fam321     0.004  (0.004)     0.004  (0.004)
+  Sb4-22   Fam322     0.004  (0.005)     0.004  (0.005)
+  Sb4-22   Fam323     0.004  (0.005)     0.004  (0.005)
+  Sb4-22   Fam324     0.020  (0.015)     0.020  (0.015)
+  Sb4-22   Fam325     0.019  (0.015)     0.019  (0.015)
+
+
+ Most likely maternal genotypes:
+
+Family  5SbAGA-05SbAGA-0SbAGH-04SbAGH-04Sb5-236 Sb5-236 SbAGE-01SbAGE-01Sb4-22  Sb4-22   
+Fam31   2       2       2       8       8       7       7       1       1       Fam31    
+Fam32   0       0       4       1       6       2       6       8       2       Fam32    
+Fam33   2       3       8       3       8       2       2       5       2       Fam33    
+Fam34   6       4       4       3       6       3       6       2       2       Fam34    
+Fam35   6       4       4       10      10      10      2       10      2       Fam35    
+Fam36   6       6       1       6       1       11      2       11      2       Fam36    
+Fam37   6       5       2       5       2       5       1       10      Fam37   Fam38    
+Fam38   2       7       2       12      8       12      2       8       2       Fam38    
+Fam39   6       3       3       11      5       11      1       5       1       Fam39    
+Fam310  4       5       4       3       5       3       1       10      1       Fam310   
+Fam311  8       5       1       5       8       14      1       10      1       Fam311   
+Fam312  6       9       8       3       8       4       1       8       1       Fam312   
+Fam313  6       4       4       7       7       6       6       2       2       Fam313   
+Fam314  6       4       2       4       1       2       1       2       2       Fam314   
+Fam315  3       5       8       3       5       11      1       12      2       Fam315   
+Fam316  6       1       4       9       6       12      6       2       2       Fam316   
+Fam317  3       7       8       9       6       9       1       6       Fam317  Fam318   
+Fam318  2       8       1       3       8       5       1       8       1       Fam318   
+Fam319  6       5       5       7       7       5       1       5       1       Fam319   
+Fam320  6       5       8       6       8       8       1       8       1       Fam320   
+Fam321  2       8       2       1       1       4       2       4       2       Fam321   
+Fam322  4       9       4       13      11      13      2       11      2       Fam322   
+Fam323  2       7       1       11      10      11      10      12      2       Fam323   
+Fam324  3       5       4       1       8       1       2       8       2       Fam324   
+Fam325  4       5       5       7       10      9       2       11      2       Fam325   

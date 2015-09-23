@@ -1,0 +1,133 @@
+Input data file: c:\MLTR\sample1.DAT                        
+
+            ---------------------------------------
+
+
+                     Multilocus Estimates
+
+                           5 loci
+
+          Standard errors based upon   100 bootstraps
+
+             Entire families resampled
+
+
+ Pollen gene frequencies constrained to equal ovule frequencies
+
+
+ Most likely parents used in procedure 
+ --> estimates are from original dataset (not bootstrap means)
+
+               Log-likelihood of F=    -390.419
+
+               Log-likelihood of tm=    -599.767
+
+               Log-likelihood of r=   -8732.500
+
+
+         Parental F estimate (SD) = 0.435  (0.096)
+
+         Multilocus t estimate (SD) = 0.069  (0.015)
+
+         Singlelocus t estimate (SD) = 0.043  (0.013)
+
+         Difference tm-ts (SD) = 0.025  (0.008)
+
+         Correlation of t (or s) estimate (SD) =-0.027  (0.290)
+
+         Multilocus  correlation of p estimate (SD) =-0.999  (0.088)
+
+         Singlelocus correlation of p estimate (SD) =-0.999  (0.633)
+
+         Difference [rp(s)-rp(m)]of p estimate (SD) = 0.000  (0.630)
+
+         Correlation of s (or t) among loci (SD) = 0.655  (0.135)
+
+
+               Locus         #alleles    #progeny
+               5SbAGA-0          9         203
+               SbAGH-04          6         197
+               Sb5-236          11         199
+               SbAGE-01         12         201
+               Sb4-22            2         199
+
+
+
+                  Gene Frequency Estimates (SD)
+
+   Locus/allele          Pollen             Ovule
+ 
+  5SbAGA-0 2          0.075  (0.076)     0.075  (0.076)
+  5SbAGA-0 6          0.362  (0.134)     0.362  (0.134)
+  5SbAGA-0 7          0.011  (0.005)     0.011  (0.005)
+  5SbAGA-0 10         0.070  (0.058)     0.070  (0.058)
+  5SbAGA-0 8          0.145  (0.079)     0.145  (0.079)
+  5SbAGA-0 5          0.256  (0.119)     0.256  (0.119)
+  5SbAGA-0 9          0.006  (0.011)     0.006  (0.011)
+  5SbAGA-0 3          0.002  (0.002)     0.002  (0.002)
+  5SbAGA-0 4          0.072  (0.062)     0.072  (0.062)
+ 
+  SbAGH-04 2          0.241  (0.107)     0.241  (0.107)
+  SbAGH-04 4          0.259  (0.109)     0.259  (0.109)
+  SbAGH-04 3          0.283  (0.109)     0.283  (0.109)
+  SbAGH-04 6          0.011  (0.007)     0.011  (0.007)
+  SbAGH-04 5          0.204  (0.093)     0.204  (0.093)
+  SbAGH-04 1          0.002  (0.003)     0.002  (0.003)
+ 
+  Sb5-236  8          0.147  (0.080)     0.147  (0.080)
+  Sb5-236  1          0.218  (0.110)     0.218  (0.110)
+  Sb5-236  2          0.138  (0.088)     0.138  (0.088)
+  Sb5-236  3          0.202  (0.106)     0.202  (0.106)
+  Sb5-236  10         0.068  (0.074)     0.068  (0.074)
+  Sb5-236  12         0.007  (0.005)     0.007  (0.005)
+  Sb5-236  11         0.009  (0.005)     0.009  (0.005)
+  Sb5-236  14         0.002  (0.002)     0.002  (0.002)
+  Sb5-236  7          0.201  (0.094)     0.201  (0.094)
+  Sb5-236  9          0.007  (0.003)     0.007  (0.003)
+  Sb5-236  13         0.002  (0.003)     0.002  (0.003)
+ 
+  SbAGE-01 7          0.068  (0.072)     0.068  (0.072)
+  SbAGE-01 6          0.204  (0.094)     0.204  (0.094)
+  SbAGE-01 8          0.031  (0.016)     0.031  (0.016)
+  SbAGE-01 2          0.066  (0.055)     0.066  (0.055)
+  SbAGE-01 5          0.203  (0.095)     0.203  (0.095)
+  SbAGE-01 10         0.119  (0.097)     0.119  (0.097)
+  SbAGE-01 11         0.013  (0.014)     0.013  (0.014)
+  SbAGE-01 4          0.007  (0.004)     0.007  (0.004)
+  SbAGE-01 1          0.068  (0.060)     0.068  (0.060)
+  SbAGE-01 12         0.096  (0.094)     0.096  (0.094)
+  SbAGE-01 3          0.063  (0.058)     0.063  (0.058)
+  SbAGE-01 13         0.063  (0.054)     0.063  (0.054)
+ 
+  Sb4-22   1          0.409  (0.109)     0.409  (0.109)
+  Sb4-22   2          0.591  (0.109)     0.591  (0.109)
+
+
+ Most likely maternal genotypes:
+
+Family  5SbAGA-05SbAGA-0SbAGH-04SbAGH-04Sb5-236 Sb5-236 SbAGE-01SbAGE-01Sb4-22  Sb4-22   
+Fam31   2       2       2       2       8       8       7       7       1       1        
+Fam32   6       7       4       4       1       2       6       8       2       2        
+Fam33   2       10      3       3       8       1       2       5       2       2        
+Fam34   6       6       4       4       3       10      6       6       2       2        
+Fam35   6       6       4       4       1       10      10      10      2       2        
+Fam36   6       6       6       6       1       1       11      11      2       2        
+Fam37   6       5       3       5       2       3       5       10      1       2        
+Fam38   6       7       2       2       12      12      8       8       2       2        
+Fam39   6       6       3       3       11      11      5       5       1       1        
+Fam310  5       5       4       4       3       3       5       10      1       1        
+Fam311  6       8       3       5       1       14      8       10      1       2        
+Fam312  5       9       3       6       8       2       8       4       1       2        
+Fam313  6       6       4       4       7       7       6       6       2       2        
+Fam314  6       6       4       4       2       2       1       1       2       2        
+Fam315  5       3       3       3       8       11      5       12      1       2        
+Fam316  6       6       4       1       12      9       6       10      2       2        
+Fam317  7       7       4       3       8       9       6       10      1       2        
+Fam318  6       8       2       3       8       1       8       5       1       1        
+Fam319  6       5       5       5       7       7       5       5       1       1        
+Fam320  5       5       6       6       8       8       8       8       1       1        
+Fam321  8       8       2       2       1       1       4       4       2       2        
+Fam322  6       9       2       4       3       13      6       11      2       2        
+Fam323  7       5       2       3       1       11      10      12      1       2        
+Fam324  5       5       4       3       1       1       8       8       2       2        
+Fam325  4       4       5       5       7       9       10      11      2       2        
