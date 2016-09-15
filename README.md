@@ -56,6 +56,5 @@ Packages [plyr](https://cran.r-project.org/web/packages/plyr/index.html) and [xl
 
  `install.packages(c("plyr", "xlsx"))`
 
-
-
-
+# Citation:
+Dulya O.V., Mikryukov V.S. Genetic variation and selfing rate in *Lychnis flos-cuculi* along an industrial pollution gradient // New Phytologist. 2016. V. 209. № 3. P. 1083-1095. DOI: 10.1111/nph.13636
